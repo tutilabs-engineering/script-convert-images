@@ -25,7 +25,7 @@ class SharpMiddleware {
        async optimizationImage(files) {
         // /layout_extracao
         await files.map(async (item)=>{
-           await modificationImage(item, "uploads")
+           await modificationImage(item, "uploads/layout_extracao")
         })
     }
 
