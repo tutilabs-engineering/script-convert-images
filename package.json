@@ -1,0 +1,12 @@
+{
+  "name": "conversoDeImagem",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "domain": "^0.0.1",
+    "path": "^0.12.7",
+    "sharp": "^0.31.3",
+    "typescript": "^4.9.4"
+  }
+}
